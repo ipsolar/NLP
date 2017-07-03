@@ -1,0 +1,3 @@
+django
+python-dateutil
+django-qsstats-magic
